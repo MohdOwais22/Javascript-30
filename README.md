@@ -1,2 +1,2 @@
 # Javascript-30
-30 projects of javascript
+projects of javascript
